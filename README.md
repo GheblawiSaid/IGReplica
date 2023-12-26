@@ -1,3 +1,3 @@
 # IGReplica
 
-This project is and Instagram page copy using Laravel framework
+This project is an Instagram page copy using Laravel framework
